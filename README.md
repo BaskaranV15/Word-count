@@ -30,4 +30,4 @@ print("Number of Words:",num_word)
 ### OUTPUT:
 ![output](read.png)
 ## RESULT:
-Thus the program is written to find the word count from a text.
+the program run succesfully
